@@ -116,6 +116,7 @@ main .content h1{
     font-size: 3rem;
     font-weight: 700;
     line-height: 4rem;
+    font-family: sans-serif;
 }
 
 main .content h1 span{
@@ -124,9 +125,9 @@ main .content h1 span{
 }
 
 main .content p{
-    margin-bottom: 2rem;
+    margin-bottom: 3rem;
     color: #ccc;
-    font-size: 20px;
+    font-size: 24px;
 }
 
 main .image{
@@ -150,6 +151,7 @@ main .image::before{
 main .image img{
     max-width: 600px;
     margin: auto;
+   height: 770;
 }
 
 section .header{
@@ -158,6 +160,7 @@ section .header{
     text-align: center;
     font-size: 2.25rem;
     font-weight: 600;
+    font-family: sans-serif;
 }
 
 .features{
